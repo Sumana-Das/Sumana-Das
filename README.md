@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumana Das
 
-<!--
-**Sumana-Das/Sumana-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Engineer and Engineering Lead** with a strong track record of designing scalable, maintainable systems and leading high-performing teams. I specialize in building robust architectures using C#, .NET Core, REST APIs and microservices — and I’ve applied a wide range of design patterns to solve complex engineering challenges.
 
-Here are some ideas to get you started:
+I also bring hands-on experience with **React**, enabling full-stack ownership when needed, and I’m passionate about mentoring engineers and driving product impact through thoughtful technical leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Core Skills
+
+- **Languages & Frameworks**: C#, .NET Core, REST, API LINQ, React  
+- **Architecture**: Microservices, Event-driven Systems, Layered architecture, Domain-driven design, Message Queues
+- **Design Patterns**: Strategy, Factory, Observer, Singleton, Adapter, and more  
+- **Infrastructure**: Azure Functions, Docker, Kubernetes  
+- **Automation & CI/CD**: Jenkins, GitHub Actions  
+- **Leadership**: Mentoring, technical strategy, cross-functional collaboration
+
+---
+
+## 🚀 Personal Fun Projects (Apart from corporate work)
+
+### 🔹 [Striver A2Z DSA CLI Tool](https://github.com/sumana-das/dsa-cli-tool)
+An interactive C# console app to solve and test DSA problems from the [Striver A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2).  
+Built with reflection, dynamic method execution, and formatted output — designed for extensibility and fast iteration.
+
+---
+
+## 📚 Learning Focus
+
+- Advanced system design  
+- Scaling engineering impact  
+- Full-stack architecture  
+- structured problem solving
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumana-das)  
+- 🧑‍💻 [GitHub](https://github.com/sumana-das)
+
+---
+
+> “Engineering isn’t just about solving problems — it’s about solving the right problems, the right way, for the right people.”
