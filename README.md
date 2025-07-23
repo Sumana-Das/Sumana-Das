@@ -8,12 +8,14 @@ I also bring hands-on experience with **React**, enabling full-stack ownership w
 
 ## 🛠️ Core Skills
 
-- **Languages & Frameworks**: C#, .NET Core, REST, API LINQ, React  
-- **Architecture**: Microservices, Event-driven Systems, Layered architecture, Domain-driven design, Message Queues
-- **Design Patterns**: Strategy, Factory, Observer, Singleton, Adapter, and more  
-- **Infrastructure**: Azure Functions, Docker, Kubernetes  
-- **Automation & CI/CD**: Jenkins, GitHub Actions  
-- **Leadership**: Mentoring, technical strategy, cross-functional collaboration
+- **Programming Languages and Frameworks:** C#, .NET Core, ASP.Net MVC, React (Typescript), JavaScript
+- **Backend & API Development:** REST, Web API, WCF, Swagger, GraphQL
+- **Databases:** SQL Server, Oracle, PostgreSQL, Object-Relational Mapping, Entity Framework, ADO.Net, Cosmos DB, Redis, S3, Azure SQL
+- **Architecture & Patterns:** OOPS, SOLID Principles, Design Patterns, Data Structures, Algorithms, Multithreading, Microservices, Distributed Systems, Webhook, Message Queues
+- **Cloud & DevOps:** Azure Cloud Services, Azure Service Bus, Azure Event Grid, AWS, Docker, Kubernetes, Agile Development, CI/CD, Azure DevOps, Jenkins, GitHub, Scrum
+- **Security & Auth:** JWT, OAuth, SharePoint, CDN
+- **Tooling & Monitoring:** Jest, JIRA, Confluence, Splunk, Datadog 
+- **Leadership:** Mentoring, technical strategy, cross-functional collaboration
 
 ---
 
