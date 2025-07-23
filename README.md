@@ -19,7 +19,7 @@ I also bring hands-on experience with **React**, enabling full-stack ownership w
 
 ## 🚀 Personal Fun Projects (Apart from corporate work)
 
-### 🔹 [Striver A2Z DSA CLI Tool](https://github.com/sumana-das/dsa-cli-tool)
+### 🔹 [DSA CLI Tool](https://github.com/Sumana-Das/StriverA2Z_DSA_Course)
 An interactive C# console app to solve and test DSA problems from the [Striver A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2).  
 Built with reflection, dynamic method execution, and formatted output — designed for extensibility and fast iteration.
 
