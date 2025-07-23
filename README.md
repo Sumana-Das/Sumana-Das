@@ -50,7 +50,7 @@ A cloud-native, microservices-based platform for managing personal and enterpris
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumana-das)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumana0405)  
 - 🧑‍💻 [GitHub](https://github.com/sumana-das)
 
 ---
