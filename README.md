@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sumana Das
 
 **Principal Software Engineer | Systems Architect (12 Years Exp)**
+
 Specialized in **architecting** high-performance **distributed Systems** and **cloud-native frameworks** with a core focus on **System Design**, **SOLID principles**, and **Data Structures**. Proven track record in delivering mission-critical infrastructure for **10M+ users with 99.99% reliability**. Expert in low-level debugging, resource orchestration, and **performance profiling** to resolve complex bottlenecks in SaaS, Windows services, and **AI-integrated telemetry environments**.
 
 ---
