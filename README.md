@@ -21,6 +21,9 @@ I also bring hands-on experience with **React**, enabling full-stack ownership w
 
 ## 🚀 Personal Fun Projects (Apart from corporate work)
 
+### 🔹 [Automate Job Search](https://github.com/Sumana-Das/AutomateJobSearch)
+This application automates personalized recruiter outreach. it generates resume suggestions from job descriptions  through Gemini-based personalization and can send outreach emails via SMTP.
+
 ### 🔹 [DSA CLI Tool](https://github.com/Sumana-Das/StriverA2Z_DSA_Course) - _In Progress_
 An interactive C# console app to solve and test DSA problems from the [Striver A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2).  
 Built with reflection, dynamic method execution, and formatted output — designed for extensibility and fast iteration.
