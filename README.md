@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sumana Das
 
-I'm a **Backend Engineer and Engineering Lead** with a strong track record of designing scalable, maintainable systems and leading high-performing teams. I specialize in building robust architectures using C#, .NET Core, REST APIs and microservices — and I’ve applied a wide range of design patterns to solve complex engineering challenges.
-
-I also bring hands-on experience with **React**, enabling full-stack ownership when needed, and I’m passionate about mentoring engineers and driving product impact through thoughtful technical leadership.
+**Principal Software Engineer | Systems Architect (12 Years Exp)**
+Specialized in **architecting** high-performance **distributed Systems** and **cloud-native frameworks** with a core focus on **System Design**, **SOLID principles**, and **Data Structures**. Proven track record in delivering mission-critical infrastructure for **10M+ users with 99.99% reliability**. Expert in low-level debugging, resource orchestration, and **performance profiling** to resolve complex bottlenecks in SaaS, Windows services, and **AI-integrated telemetry environments**.
 
 ---
 
